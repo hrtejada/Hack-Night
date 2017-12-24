@@ -17,7 +17,7 @@ Six MetroTech Center
 Brooklyn, NY 11201
 
 
-## Week 0: Background
+~~## Week 0: Background~~
 In order to get the most out of Hack Night, you should be familiar with some basic security concepts.
 
 ### Lecture Materials
@@ -47,7 +47,7 @@ In order to get the most out of Hack Night, you should be familiar with some bas
 1. [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 
-## Week 1: Introduction
+~~## Week 1: Introduction~~
 This is an introduction session to the Hack Night curriculum, this session tries to give an overview of what rest of Hack Night sessions is to be followed. More importantly, it also gives the
 ethics necessary to keep in mind when you learn something as powerful as your going to do now. Next, we will cover various types of disclosure that hackers have followed since
 its inception.
@@ -70,7 +70,7 @@ Before diving into the Hack Night semester, we recommend you take a look at the 
 8. [ISIS Lab Calendar](http://www.isis.poly.edu/calendar)
 
 
-## Week 2: Source Code Auditing, Part 1
+~~## Week 2: Source Code Auditing, Part 1~~
 This session will cover Code Auditing. Code Auditing an application is the process of analyzing application code (in source or binary form) to uncover vulnerabilities that attackers
 might exploit. By going through this process, you can identify and close security holes that would otherwise put sensitive data and business resources at unnecessary risk.
 Topics that will be covered are Identifying Architectural, Implementation and Operational vulnerabilities.
@@ -92,7 +92,7 @@ We believe this protocol to be severely flawed and require your assistance in id
 6. [The Fortify Taxonomy of Software Security Flaws](http://www.fortify.com/vulncat/)
 
 
-## Week 3: Source Code Auditing, Part 2
+~~## Week 3: Source Code Auditing, Part 2~~
 This week we will continue with the final video on Code Auditing, and provide you with 2 more applications that are intentionally vulnerable. Your job is to audit the source code and find vulnerabilities in them. Test
 the skills that you have learned last week to efficiently go over the process of auditing applications.
 
